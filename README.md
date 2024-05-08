@@ -6,8 +6,8 @@
   
 - 📫 How to reach me: **manikasi@cmail.carleton.ca**
   
-- 🔗 Connect: Feel to reach out [LinkedIn](https://www.linkedin.com/in/mani-kasi-479291252/)
+- 🙌 Feel free to connect on [**LinkedIn**](https://www.linkedin.com/in/mani-kasi-479291252/)
 
-- 🖥 Portfolio: Check out my work and projects on my Website!
+- 🖥 Check out my work and projects on my Website!
 
 
