@@ -8,6 +8,6 @@
   
 - 🔗 Connect: Read my experiences and connect with me on [LinkedIn](https://www.linkedin.com/in/mani-kasi-479291252/)
 
-🖥 Portfolio: Check out my work and projects on my Website!
+- 🖥 Portfolio: Check out my work and projects on my Website!
 
 
