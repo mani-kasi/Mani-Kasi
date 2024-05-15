@@ -8,6 +8,6 @@
   
 - 🙌 Feel free to connect on [**LinkedIn**](https://www.linkedin.com/in/mani-kasi-479291252/)
 
-- 🖥 Check out my work and projects on my [**Website**](https://manikasi.netlify.app/)!
+- 🖥 Check out my work and projects on my [**Website**](https://manikasi.netlify.app/)
 
 
