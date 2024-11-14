@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Mani!</h1>
 
-<h3>I'm a 3rd year student Majoring in Computer Science and Minoring in Business at Carleton University!</h3> 
+<h3>I'm a 4th year student Majoring in Computer Science and Minoring in Business at Carleton University!</h3> 
 
-- 🔭 I’m currently looking for a **fall 2024 co-op**
+- 🔭 I’m currently working at **Ciena** as a Front End UI/UX Co-op!
   
 - 📫 How to reach me: **manikasi@cmail.carleton.ca**
   
