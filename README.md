@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Mani!</h1>
+<h1 align="center">Hey 👋, I'm Mani!</h1>
 
 <h3>I'm a 5th year student Majoring in Computer Science and Minoring in Business at Carleton University!</h3> 
 
